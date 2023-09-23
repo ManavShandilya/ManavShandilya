@@ -3,7 +3,7 @@
 </p>
 <h2> Hello Folks!!, I am Manav</h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
-<p><em> Full Stack Developer developer 👨‍💻</em></p>
+<p><em> Full Stack Developer</em></p>
 
 ```javascript
 let curriculumVitae = {
